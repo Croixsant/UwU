@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://croixsant.github.io/UwU/#2
+- Leaflet Map https://croixsant.github.io/UwU/
 - Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vSJaKwZ30Rrs0Gn64-F-W2DUSoq6zgl0uJWrTjT54IkpP_QnZ-OMoNb5QNf0h1bcTUOzgw_Xpwkdotl/pubhtml
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
